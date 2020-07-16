@@ -1,0 +1,3 @@
+include ':loginx-unico'
+include ':app'
+rootProject.name = "loginx"
